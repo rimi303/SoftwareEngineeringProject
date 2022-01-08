@@ -37,7 +37,6 @@ public class LoginActivity extends AppCompatActivity {
 
         LoginButton = findViewById(R.id.login_btn);
         InputPassword = findViewById(R.id.login_password_input);
-        InputPassword = findViewById(R.id.register_password_input);
         InputPhoneNumber = findViewById(R.id.login_phone_input);
         AdminLink = (TextView) findViewById(R.id.admin_panel_link);
         NotAdminLink = (TextView) findViewById(R.id.not_admin_panel_link);
