@@ -1,70 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/welcome"
-    tools:context=".MainActivity">
-
-    <ImageView
-        android:id="@+id/app_logo"
-        android:contentDescription="AppLogo"
-        android:layout_width="300dp"
-        android:layout_height="100dp"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="60dp"
-        android:src="@drawable/applogo"
-        />
+    android:orientation="vertical">
 
     <TextView
-        android:id="@+id/app_slogan"
-        android:layout_width="220dp"
-        android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginEnd="88dp"
-        android:layout_marginTop="140dp"
-        android:text="Find, Discover, Choose and Buy any Book online!"
-        android:textAlignment="center"
-        android:textColor="@color/purple_500"
-        android:textSize="22sp"
-        android:textStyle="bold|italic"
-        />
 
-    <Button
-        android:id="@+id/main_login_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="10dp"
-        android:layout_marginLeft="15dp"
-        android:layout_marginRight="15dp"
-        android:background="@drawable/buttons"
-        android:padding="20dp"
-        android:textAllCaps="false"
-        android:textSize="12sp"
-        android:text="Already have an Account? Login"
-        android:textColor="@android:color/white"
-        />
+        android:text="exchange book"
+        android:textSize="18dp"/>
 
-    <Button
-        android:id="@+id/main_join_now_btn"
+    <TextView
+        android:id="@+id/question"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/main_login_btn"
-        android:layout_marginBottom="5dp"
-        android:layout_marginLeft="115dp"
-        android:layout_marginRight="115dp"
-        android:background="@drawable/input_design"
+        android:text="communicate"
+        android:layout_marginTop="15dp"
+        android:textSize="18dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="login"
+        android:background="#0091EA"
+        android:textColor="#fff"
         android:padding="8dp"
-        android:textAllCaps="false"
+        android:layout_marginBottom="24dp"
+        android:id="@+id/choice1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="go to next page"
+        android:background="#0091EA"
+        android:textColor="#fff"
+        android:padding="8dp"
+        android:layout_marginBottom="24dp"
+        android:id="@+id/choice2"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="exchange book"
+        android:background="#0091EA"
+        android:textColor="#fff"
+        android:padding="8dp"
+        android:layout_marginBottom="24dp"
+        android:id="@+id/choice3"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="quit"
+        android:background="#B71C1C"
+        android:textColor="#fff"
+        android:padding="8dp"
+        android:layout_marginBottom="24dp"
+        android:id="@+id/quit"/>
+
+
+    <Button
+        android:id="@+id/submit_area"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="#5BD91B"
+        android:text="submit"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/clear_button"
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:backgroundTint="#E33328"
+        android:layout_height="wrap_content"
         android:textSize="20sp"
-        android:text="Join Now"
-        android:textColor="@android:color/white"
-        />
+        android:text="clear" />
+
+</LinearLayout>
 
 
 
-</RelativeLayout>

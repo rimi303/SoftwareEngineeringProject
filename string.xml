@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="SUBMIT">GFG |  DO YOU WANT TO EXCHANGE BOOK?</string>
+    <string name="CLEAR">GFG | which Book DO YOU WANT TO EXCHANGE?</string>
+
+        <string name="SUCCESSFULL">log in successfull</string>
+        <string name="go_next">which book do you want</string>
+
+        <string name="next_text">next</string>
+        <string name="prev_text">previous</string>
+    </resources>
