@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminCategoryActivity">
+
+    <TextView
+        android:id="@+id/slogan_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="Add new product"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        />
+
+    <LinearLayout
+        android:id="@+id/linear1_category_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/slogan_category"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="40dp">
+
+        <ImageView
+            android:id="@+id/Book1"
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:src="@drawable/book1"
+            />
+
+        <ImageView
+            android:id="@+id/Novel"
+            android:layout_width="83dp"
+            android:layout_height="85dp"
+            android:src="@drawable/novel"
+            />
+
+        <ImageView
+            android:id="@+id/Novel2"
+            android:layout_width="95dp"
+            android:layout_height="85dp"
+            android:src="@drawable/novel2"
+            android:layout_marginStart="11dp"
+            />
+
+        <ImageView
+            android:id="@+id/Pencil"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:src="@drawable/pencil"
+            android:layout_marginStart="11dp"
+            />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linear2_category_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear1_category_layout"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="40dp">
+
+        <ImageView
+            android:id="@+id/Reading"
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:src="@drawable/reading"
+            android:layout_marginStart="11dp"
+            />
+
+        <ImageView
+            android:id="@+id/Quran"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/quran"
+            android:layout_marginStart="11dp"
+            />
+
+        <ImageView
+            android:id="@+id/Story"
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:src="@drawable/story"
+            android:layout_marginStart="11dp"
+            />
+
+        <ImageView
+            android:id="@+id/Student"
+            android:layout_width="90dp"
+            android:layout_height="95dp"
+            android:src="@drawable/student"
+            android:layout_marginStart="11dp"
+            />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linear3_category_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear2_category_layout"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="40dp">
+
+        <ImageView
+            android:id="@+id/Quran2"
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:src="@drawable/quran2"
+            />
+
+        <ImageView
+            android:id="@+id/Orders"
+            android:layout_width="83dp"
+            android:layout_height="85dp"
+            android:src="@drawable/novel"
+            android:layout_marginStart="11dp"
+            />
+
+        <ImageView
+            android:id="@+id/International"
+            android:layout_width="80dp"
+            android:layout_height="85dp"
+            android:src="@drawable/international"
+            android:layout_marginStart="11dp"
+            />
+
+        <ImageView
+            android:id="@+id/International2"
+            android:layout_width="80dp"
+            android:layout_height="85dp"
+            android:src="@drawable/international2"
+            android:layout_marginStart="11dp"
+            />
+
+
+    </LinearLayout>
+
+</RelativeLayout>
