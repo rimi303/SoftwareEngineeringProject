@@ -1,7 +1,0 @@
-#Sat Jan 15 16:42:32 BDT 2022
-base.0=C\:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
-path.1=classes.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=C\:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\classes.dex
