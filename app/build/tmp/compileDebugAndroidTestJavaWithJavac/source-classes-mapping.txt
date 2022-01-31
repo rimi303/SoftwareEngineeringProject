@@ -1,0 +1,11 @@
+com/example/ecommerceapp/LoginActivityJUnitTest.java
+ com.example.ecommerceapp.LoginActivityJUnitTest
+ com.example.ecommerceapp.LoginActivityJUnitTest$1
+com/example/ecommerceapp/test/BuildConfig.java
+ com.example.ecommerceapp.test.BuildConfig
+com/example/ecommerceapp/LoginActivityUnitTest.java
+ com.example.ecommerceapp.LoginActivityUnitTest
+com/example/ecommerceapp/ExampleInstrumentedTest.java
+ com.example.ecommerceapp.ExampleInstrumentedTest
+com/example/ecommerceapp/LoginActivityTest.java
+ com.example.ecommerceapp.LoginActivityTest

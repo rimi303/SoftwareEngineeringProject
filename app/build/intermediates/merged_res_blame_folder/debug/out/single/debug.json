@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pencil.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\pencil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register2.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\register2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book1.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\book1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login1.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\login1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_international.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\international.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_category.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\layout\\activity_admin_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttons.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_applogo.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reading.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\reading.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login3.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\login3.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_international3.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\international3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quran.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\quran.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_add_new_product.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\layout\\activity_admin_add_new_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_student.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\student.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quran2.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\quran2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login2.jpeg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\login2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon2.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_international2.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\international2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_design.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\input_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\select.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orders.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\orders.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_books.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\books.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_novel2.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\novel2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_story.jpg.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\story.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_novel.png.flat",
+        "source": "C:\\Users\\Rimi\\AndroidStudioProjects\\eCommerceApp\\app\\src\\main\\res\\drawable\\novel.png"
+    }
+]

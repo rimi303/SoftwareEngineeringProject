@@ -1,0 +1,53 @@
+com/example/ecommerceapp/Model/Users.java
+ com.example.ecommerceapp.Model.Users
+com/example/ecommerceapp/HomeActivity.java
+ com.example.ecommerceapp.HomeActivity
+ com.example.ecommerceapp.HomeActivity$1
+com/example/ecommerceapp/BuildConfig.java
+ com.example.ecommerceapp.BuildConfig
+com/example/ecommerceapp/AdminCategoryActivity.java
+ com.example.ecommerceapp.AdminCategoryActivity
+ com.example.ecommerceapp.AdminCategoryActivity$1
+ com.example.ecommerceapp.AdminCategoryActivity$10
+ com.example.ecommerceapp.AdminCategoryActivity$11
+ com.example.ecommerceapp.AdminCategoryActivity$12
+ com.example.ecommerceapp.AdminCategoryActivity$2
+ com.example.ecommerceapp.AdminCategoryActivity$3
+ com.example.ecommerceapp.AdminCategoryActivity$4
+ com.example.ecommerceapp.AdminCategoryActivity$5
+ com.example.ecommerceapp.AdminCategoryActivity$6
+ com.example.ecommerceapp.AdminCategoryActivity$7
+ com.example.ecommerceapp.AdminCategoryActivity$8
+ com.example.ecommerceapp.AdminCategoryActivity$9
+com/example/ecommerceapp/Prevalent/Prevalent.java
+ com.example.ecommerceapp.Prevalent.Prevalent
+com/example/ecommerceapp/AdminAddNewProductActivity.java
+ com.example.ecommerceapp.AdminAddNewProductActivity
+ com.example.ecommerceapp.AdminAddNewProductActivity$1
+ com.example.ecommerceapp.AdminAddNewProductActivity$2
+ com.example.ecommerceapp.AdminAddNewProductActivity$3
+ com.example.ecommerceapp.AdminAddNewProductActivity$3$1
+ com.example.ecommerceapp.AdminAddNewProductActivity$3$2
+ com.example.ecommerceapp.AdminAddNewProductActivity$4
+ com.example.ecommerceapp.AdminAddNewProductActivity$5
+com/example/ecommerceapp/SmallTest.java
+ com.example.ecommerceapp.SmallTest
+com/example/ecommerceapp/ActivityIntegrationTestCase.java
+ com.example.ecommerceapp.ActivityIntegrationTestCase
+com/example/ecommerceapp/ActivityTestRule.java
+ com.example.ecommerceapp.ActivityTestRule
+com/example/ecommerceapp/LoginActivity.java
+ com.example.ecommerceapp.LoginActivity
+ com.example.ecommerceapp.LoginActivity$1
+ com.example.ecommerceapp.LoginActivity$2
+ com.example.ecommerceapp.LoginActivity$3
+ com.example.ecommerceapp.LoginActivity$4
+com/example/ecommerceapp/MainActivity.java
+ com.example.ecommerceapp.MainActivity
+ com.example.ecommerceapp.MainActivity$1
+ com.example.ecommerceapp.MainActivity$2
+com/example/ecommerceapp/RegisterActivity.java
+ com.example.ecommerceapp.RegisterActivity
+ com.example.ecommerceapp.RegisterActivity$1
+ com.example.ecommerceapp.RegisterActivity$2
+ com.example.ecommerceapp.RegisterActivity$2$1
