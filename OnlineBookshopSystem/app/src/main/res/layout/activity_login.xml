@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+//Here starting the relative layout that is used for the design 
+//In which content will be placed by relatively one another
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -6,6 +10,13 @@
     android:layout_height="match_parent"
     android:background="@drawable/login3"
     tools:context=".LoginActivity">
+    
+    /**This is the ImageView section
+    * When user or admin or any client see the ImageView to the front design on the app
+    * It will help to work properly with nice relative design
+    * Here layout_centerHorizontal is remained as true
+    * It's drawable source is "@drawable/applogo"
+    **/
 
     <ImageView
         android:id="@+id/login_applogo"
@@ -15,6 +26,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
         />
+    
+    //This is the EditText section
 
     <EditText
         android:id="@+id/login_phone_input"
@@ -50,6 +63,8 @@
         android:textSize="17sp"
         android:textStyle="bold"
         />
+    
+    //This is the TextView section
 
     <TextView
         android:id="@+id/forgot_password_link"
@@ -63,6 +78,12 @@
         android:layout_marginTop="15dp"
         android:layout_below="@+id/login_password_input"
         />
+    
+    /**This is the Button section
+    * When user or admin or any client click the buttons
+    * It will help to work properly with nice relative design
+    * Here textAllCaps is remained to false
+    **/
 
     <Button
         android:id="@+id/login_btn"
@@ -80,6 +101,12 @@
         android:text="Login"
         android:textColor="@android:color/white"
         />
+    
+    /**These are the TextView section
+    * When user or admin or any client see the TextView inside it
+    * It will help to work properly with nice relative design
+    * Here text  by as an admin?
+    **/
 
     <TextView
         android:id="@+id/admin_panel_link"
@@ -110,6 +137,8 @@
         android:layout_below="@+id/admin_panel_link"
         android:visibility="invisible"
         />
+    
+    //Ends the RelativeLayout
 
 
 </RelativeLayout>
