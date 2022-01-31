@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+//Here use the Relative Layout, change the contents relatively by one another
+//Relative Layout starts here
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -6,6 +10,13 @@
     android:layout_height="match_parent"
     android:background="@drawable/register2"
     tools:context=".RegisterActivity">
+    
+    /**This is the ImageView section
+    * When user or admin or any client see the ImageView to the front design on the app
+    * It will help to work properly with nice relative design
+    * Here layout_centerHorizontal is remained as true
+    * It's drawable source is "@drawable/applogo"
+    **/
 
     <ImageView
         android:id="@+id/register_applogo"
@@ -15,6 +26,13 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
         />
+    
+    /**These all are the ImageView section
+    * When user or admin or any client see the ImageView to the front design on the app
+    * It will help to work properly with nice relative design
+    * Here layout_centerHorizontal is remained as true
+    * It's drawable source is "@drawable/applogo"
+    **/
 
     <EditText
         android:id="@+id/register_username_input"
@@ -51,6 +69,8 @@
         android:textStyle="bold"
         android:layout_marginTop="6dp"
         />
+    
+    //Also here the next editText below the "@+id/register_phone_input"
 
     <EditText
         android:id="@+id/register_password_input"
@@ -70,7 +90,12 @@
         android:textStyle="bold"
         />
 
-
+    /**This is the Button section
+    * When user or admin or any client check the Button to the front design on the app
+    * It will help to work properly with nice relative design
+    * Here layout_centerHorizontal is remained as true
+    * It's drawable background is "@drawable/buttons"
+    **/
 
     <Button
         android:id="@+id/register_button"
@@ -91,6 +116,6 @@
         android:textColor="@android:color/white"
         />
 
-
+//Relative Layout Ends here
 
 </RelativeLayout>
